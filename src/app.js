@@ -10,4 +10,3 @@ function agregarItem(texto) {
   li.textContent = texto;
   lista.appendChild(li);
 }
-
